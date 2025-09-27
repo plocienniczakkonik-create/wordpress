@@ -1,4 +1,9 @@
-<?php wp_footer(); ?>
+<?php
+echo '</div>';
+
+wp_footer(); 
+
+?>
 
 </body>
 </html>
